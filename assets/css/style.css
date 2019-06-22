@@ -1,0 +1,47 @@
+
+.container1 {
+    float: left;
+    height: 500px;
+    width: 300px;
+    border: 5px solid rgb(111, 0, 255);
+    margin-left: 30%;
+    top: 15%;
+    background-color: lightgray;
+    
+}
+.container2 {
+    float: left;
+    height: 500px;
+    width: 300px;
+    border: 5px solid rgb(111, 0, 255);
+    background-color: lightgray;
+    top: 15%;
+
+}
+body {
+    background-image: url(../images/NBA-team-wallpaper.jpg);
+}
+#hangMan {
+    float: left;
+    margin-left: 26%;
+    height: 120px
+}
+#oldSchool {
+    position: relative;
+    top: 100px;
+    right: 455px;
+}
+#contain2 {
+    text-align: center;
+    line-height: 40px;
+}
+#contain1 {
+
+}
+#hgmn {
+    height: 490px;
+    width: 299px;
+}
+#gameWord {
+    
+}
